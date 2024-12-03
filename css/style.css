@@ -1,0 +1,9 @@
+main{
+    min-height: 100vh;
+    font-size: 5rem;
+    padding: 10px;
+    display: grid;
+    background-color: bisque;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+}
